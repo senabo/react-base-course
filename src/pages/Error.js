@@ -1,0 +1,13 @@
+import React from 'react';
+
+const Error = () => {
+    return (
+        <div>
+            <h1 className="error">
+                This page is not exist
+            </h1>
+        </div>
+    );
+};
+
+export default Error;
